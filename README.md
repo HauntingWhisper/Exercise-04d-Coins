@@ -1,17 +1,13 @@
 # Exercise-04c-Enemies
 
 ## Implementation
-
-## References
-
-Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
-https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
-https://github.com/SebLague/2DPlatformer-Tutorial
-
-Pixel Platformer tiles provided by Kenney.nl
-https://kenney.nl/assets/pixel-platformer
-
-## Future Development
+All main things I need plus 
+Multiple levels
+A Larger more elaborate level
+Made around 25 of my own assets for the levels to mix with the premade assets 
+Second Level has a Parallax background that I thought looked cool
+The player can wall jump and is the only way to get through part of the level
+And a Starting menu with a self-made start button art and background
 
 ## Created by
-Nathan Mishler
+Reki Atlas Clawthrone
